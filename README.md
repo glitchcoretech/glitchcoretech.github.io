@@ -3,14 +3,14 @@
   <h1>Privacy Policy</h1>
 
   <p>
-    TikSave Pro takes the privacy of our customers and users seriously. We recognize that privacy is an important
+    We take the privacy of our customers and users seriously. We recognize that privacy is an important
     issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy
     explains what kind of information we collect, how we use it, and how we protect your information in relation
-    to our mobile services.
+    to all our mobile applications and services.
   </p>
 
   <p>
-    By using our services, you consent to this Privacy Policy.
+    By using our applications, you consent to this Privacy Policy.
   </p>
 
   <h2>1. How We Protect Your Information</h2>
@@ -23,7 +23,7 @@
   <h3>1.1 Collection of Personal Information</h3>
 
   <p>
-    TikSave Pro does <strong>not collect any Personal Information</strong>. Personal Information includes, but
+    Our applications do <strong>not collect any Personal Information</strong>. Personal Information includes, but
     is not limited to, your name, photos, physical address, social security numbers, email address, or geographic
     location information.
   </p>
@@ -31,7 +31,7 @@
   <p>
     We also do not collect any language modeling data associated with your name, phone number, email address,
     or any other personal identifier. Language modeling data may include common phrases or words used while typing
-    in the application.
+    in our applications.
   </p>
 
   <h3>1.2 Non-Personal Information Collected</h3>
@@ -44,8 +44,8 @@
   <h2>2. Data and Usage</h2>
 
   <p>
-    Non-Personal Information may be used for internal purposes only, such as providing and improving TikSave Pro
-    services, as well as for promotion and marketing purposes. We do not combine Non-Personal Information with
+    Non-Personal Information may be used for internal purposes only, such as providing and improving our
+    services and applications, as well as for promotion and marketing purposes. We do not combine Non-Personal Information with
     Personal Information.
   </p>
 
@@ -57,7 +57,7 @@
   <h2>3. Information Security</h2>
 
   <p>
-    TikSave Pro is committed to safeguarding the confidentiality of your information. Since we do not collect
+    We are committed to safeguarding the confidentiality of your information. Since we do not collect
     Personal Information, we focus on protecting Non-Personal Information using administrative, physical, and
     electronic security measures.
   </p>
@@ -70,7 +70,7 @@
   <h2>4. Compliance with Laws and Law Enforcement</h2>
 
   <p>
-    TikSave Pro may cooperate with government and law enforcement officials when required to enforce and comply
+    We may cooperate with government and law enforcement officials when required to enforce and comply
     with the law. We may disclose session data, usage data, or other information if we have a good faith belief
     that such disclosure is reasonably necessary to:
   </p>
@@ -79,14 +79,14 @@
     <li>Comply with applicable laws, regulations, legal processes, or governmental requests</li>
     <li>Enforce our Terms of Use and investigate potential violations</li>
     <li>Detect, prevent, or address fraud, security, or technical issues</li>
-    <li>Protect the rights, property, or safety of TikSave Pro, its users, or the public</li>
+    <li>Protect our rights, property, or safety, as well as that of our users or the public</li>
   </ul>
 
   <h2>5. Changes to This Privacy Policy</h2>
 
   <p>
     This Privacy Policy may be updated from time to time. If we make changes, we will update this page accordingly.
-    Your continued use of TikSave Pro after any changes indicates your acceptance of the updated Privacy Policy.
+    Your continued use of our applications after any changes indicates your acceptance of the updated Privacy Policy.
   </p>
 
   <h2>Contact Us</h2>
@@ -94,11 +94,11 @@
   <p>
     If you have any questions or concerns about this Privacy Policy, please contact us at:
     <br />
-    <a href="mailto:tiksavepro.tech@gmail.com">tiksavepro.tech@gmail.com</a>
+    <a href="mailto:glitchcoretech.support@gmail.com">glitchcoretech.support@gmail.com</a>
   </p>
 
   <p style="font-size: 14px; color: #666;">
-    Last updated: January 2026
+    Last updated: May 2026
   </p>
 
 </div>
